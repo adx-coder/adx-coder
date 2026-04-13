@@ -1,85 +1,86 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Ashwath+David!;AI/ML+Engineer+%7C+LLM+Developer+%7C+Techie;&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=0E75B6&vCenter=true" alt="Typing SVG">
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adx-coder&label=Profile%20Views&color=0e75b6&style=flat-square&logo=github" alt="Profile Views"/>
-</p>
+# Ashwath David
 
----
+**Applied AI · Mechanistic Interpretability · Agentic Systems**
 
-## 🚀 About Me
+MS Data Science, University of Maryland · Published @ EMNLP 2025
 
-I'm a passionate and results-driven **AI/ML Engineer** focused on building intelligent systems that address real-world challenges. My expertise revolves around:
+I build production AI systems and crack them open to understand why they work.
 
-- ⚙️ **Large Language Models (LLMs)**  
-- 🤖 **Agentic Frameworks & Multi-Agent Systems**  
-- 💬 **Natural Language Processing (NLP)**  
-- 🧠 **Deep Learning & Computer Vision**  
-- ⚡ **Python, FastAPI, PyTorch, and Streamlit**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwath-david/)
+&nbsp;&nbsp;
+[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.16460)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/adavid12@umd.edu-333?style=flat-square&logo=gmail&logoColor=white)](mailto:adavid12@umd.edu)
 
-I believe in building scalable, impactful solutions and love collaborating on bleeding-edge AI ideas.
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools
+> *I don't use LLMs as answer machines. I use them as components in validated pipelines — with evidence grounding, anti-hallucination checks, and human-in-the-loop gates where the stakes require it.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3676AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0B3D91?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-228B22?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<br/>
 
 ---
 
-## 🔍 Current Focus & Interests
+<br/>
 
-- 🧠 **Working On:** Automating complex task workflows using multi-agent LLM systems and integrating vector databases for RAG pipelines.
-- 🚀 **Learning:** Exploring efficient LLM fine-tuning methods like LoRA, QLoRA, and SFT.
-- 💡 **Collaborating On:** Ethical AI, RAG frameworks, and scalable open-source ML infrastructure.
-- ❓ **Ask Me About:** LLMs, NLP pipelines, computer vision, agent systems, and FastAPI-based AI services.
-- 🧪 **Exploring:** Quantum Machine Learning & Neuromorphic Systems
+#### what i ship
+
+| | |
+|---|---|
+| **multi-agent incident response** | 8-agent DAG · reflection loops · critic-gated remediation · policy-as-code governance |
+| **streaming voice ai** | ASR→LLM→TTS · 500ms TTFA · 3-stage barge-in (32ms pause → evidence → resolution) · adaptive VAD |
+| **data fusion pipeline** | 10-stage · scraping → LLM extraction → entity resolution → transit routing → equity analysis · $0.80 total LLM cost |
+| **autonomous fault diagnosis** | 10-node agent graph · 25 API integrations · zero-LLM classifier (<1ms) · Neo4j memory · 115 tests |
+| **domain LLM family** | 6 models · 1.5B–18B · LoRA/QLoRA · Trainium (8x cost cut) · #1 on industry leaderboard |
+| **telecom embeddings** | triplet-loss fine-tuned · domain tokenizer · 88–93% RAG accuracy vs 75% generic · EMNLP 2025 |
+| **hybrid RAG** | FAISS + BM25 reranking · 92% accuracy @ 50K QPS · agentic SQL-to-NL @ 95% |
+
+<br/>
+
+#### what i study
+
+| | |
+|---|---|
+| **mechanistic interpretability** | causal tracing · activation patching · logit attribution · tuned lens |
+| **geopolitical bias** | how LLMs encode and reproduce geopolitical framing · NeurIPS 2026 dataset track |
+| **agentic evaluation** | LLM-as-judge for measuring agent reliability in production |
+
+<br/>
+
+#### papers
+
+```
+[1] Telecom Vectorization Model          EMNLP 2025        arxiv.org/abs/2504.16460
+[2] Low-Latency Voice Agents             preprint          arxiv.org/abs/2508.04721
+[3] Telecom-Specific Language Model      preprint          arxiv.org/abs/2505.07877
+[4] IoT Security Feature Extraction      ICIDCA 2024       Elsevier
+```
+
+<br/>
 
 ---
 
-## 📈 GitHub Stats & Activity
+<br/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adx-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adx-coder&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+```
+training      LoRA · QLoRA · SFT · DPO · DeepSpeed · FSDP · Trainium
+serving       vLLM · TensorRT-LLM · GPTQ · AWQ · Triton
+agents        LangGraph · Strands · LlamaIndex · Semantic Kernel
+retrieval     FAISS · Neo4j · Pinecone · hybrid search · reranking
+interp        TransformerLens · causal tracing · activation patching
+speech        Whisper · Nemotron · Kokoro TTS · VAD
+infra         Docker · K8s · Ray · AWS · GCP
+languages     Python · C++ · Rust · SQL · TypeScript
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adx-coder&bg_color=1a1b27&color=9f9f9f&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
-</p>
+<br/>
 
----
+<div align="center">
 
-## 🌐 Let's Connect!
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adx-coder&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adx-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 
-I'm always excited to connect, collaborate, and brainstorm ideas around AI, business, and future tech.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashwath-david/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <!-- <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a> -->
-  <!-- Add Portfolio or Blog -->
-</p>
-
----
-
-<p align="center">
-  ✨ *Let’s build something extraordinary together!* ✨
-</p>
+</div>
