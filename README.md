@@ -26,26 +26,26 @@ I build production AI systems and crack them open to understand why they work.
 
 <br/>
 
-#### what i ship
+#### work
 
-| | |
-|---|---|
-| **multi-agent incident response** | 8-agent DAG · reflection loops · critic-gated remediation · policy-as-code governance |
-| **streaming voice ai** | ASR→LLM→TTS · 500ms TTFA · 3-stage barge-in (32ms pause → evidence → resolution) · adaptive VAD |
-| **data fusion pipeline** | 10-stage · scraping → LLM extraction → entity resolution → transit routing → equity analysis · $0.80 total LLM cost |
-| **autonomous fault diagnosis** | 10-node agent graph · 25 API integrations · zero-LLM classifier (<1ms) · Neo4j memory · 115 tests |
-| **domain LLM family** | 6 models · 1.5B–18B · LoRA/QLoRA · Trainium (8x cost cut) · #1 on industry leaderboard |
-| **telecom embeddings** | triplet-loss fine-tuned · domain tokenizer · 88–93% RAG accuracy vs 75% generic · EMNLP 2025 |
-| **hybrid RAG** | FAISS + BM25 reranking · 92% accuracy @ 50K QPS · agentic SQL-to-NL @ 95% |
+Trained a family of **domain-specific LLMs** (1.5B–18B) with LoRA/QLoRA and a custom tokenizer — deployed on Trainium at 8x cost savings, ranked #1 on an industry-wide leaderboard. Built the **embedding model** that sits underneath (triplet-loss fine-tuned, 88–93% RAG accuracy vs 75% generic, published at EMNLP 2025).
+
+Built a **GenAI developer platform** used by 200+ engineers — including a code dependency graph analyzer, enterprise hybrid RAG (92% accuracy @ 50K QPS), and agentic SQL-to-NL (95% accuracy). Deployed for Fortune 500 clients.
+
+Built a **production voice AI pipeline** — streaming ASR→LLM→TTS at sub-500ms latency with a novel 3-stage barge-in system (32ms instant pause → evidence accumulation → reversible resolution) and adaptive VAD with hysteresis.
+
+Built **autonomous agent systems** for incident response (8-agent DAG with reflection loops and policy-as-code governance) and network fault diagnosis (10-node pipeline, 25 API integrations, zero-LLM classifier at <1ms, Neo4j memory).
+
+Currently a grad researcher at UMD studying **geopolitical bias in LLMs** through causal tracing and activation patching.
 
 <br/>
 
-#### what i study
+#### research
 
 | | |
 |---|---|
 | **mechanistic interpretability** | causal tracing · activation patching · logit attribution · tuned lens |
-| **geopolitical bias** | how LLMs encode and reproduce geopolitical framing · NeurIPS 2026 dataset track |
+| **geopolitical bias** | how LLMs encode and reproduce geopolitical framing · NeurIPS 2026 |
 | **agentic evaluation** | LLM-as-judge for measuring agent reliability in production |
 
 <br/>
