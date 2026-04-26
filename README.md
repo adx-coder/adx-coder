@@ -4,7 +4,7 @@
 
 **Applied AI · Mechanistic Interpretability · Agentic Systems**
 
-MS Data Science, University of Maryland · Published @ EMNLP 2025
+MS Data Science, University of Maryland 
 
 I build production AI systems and crack them open to understand why they work.
 
@@ -45,7 +45,7 @@ Currently a grad researcher at UMD studying **geopolitical bias in LLMs** throug
 | | |
 |---|---|
 | **mechanistic interpretability** | causal tracing · activation patching · logit attribution · tuned lens |
-| **geopolitical bias** | how LLMs encode and reproduce geopolitical framing · NeurIPS 2026 |
+| **geopolitical bias** | how LLMs encode and reproduce geopolitical framing  |
 | **agentic evaluation** | LLM-as-judge for measuring agent reliability in production |
 
 <br/>
